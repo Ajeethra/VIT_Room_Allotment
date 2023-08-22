@@ -1,1 +1,2 @@
-# VIT_Room_Allotment
+# VIT-Room-Allotment-beta
+Mock Online Room Allotment System.
